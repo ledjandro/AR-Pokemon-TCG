@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93294854044d74429b2cceaadb744ebd, type: 3}
+  m_Name: Sneasel
+  m_EditorClassIdentifier: 
+  pokemonNameInternal: Sneasel
+  descriptionInternal: 
+  modelPrefabInternal: {fileID: 5724612675759177734, guid: 2fead4d4c2cee4b4c86b4215e70bbbaa,
+    type: 3}
+  imageTargetTextureInternal: {fileID: 2800000, guid: 894330fccc79446368b8d7ae900fa028,
+    type: 3}
+  idleAnimationInternal: {fileID: 7400000, guid: fc020f82fb6ab4566ae2b519fb20ad54,
+    type: 2}
+  attack1AnimationInternal: {fileID: 7400000, guid: d959f21aa2cb248148806dedfbc4e8e7,
+    type: 2}
+  attack1NameInternal: Scratch
+  type1Internal: 16
+  maxHpInternal: 0
+  attackInternal: 0
+  defenseInternal: 0
+  spAttackInternal: 0
+  spDefenseInternal: 0
+  speedInternal: 0
+  learnableMovesInternal: []

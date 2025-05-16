@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.ptc.vuforia.engine": {
+      "tarball": {
+        "hash": "c810e0997bdc9940efda79ea97848781",
+        "mtime": 1746464293000,
+        "size": 127816695,
+        "localPath": "/Users/radja/VuforiaPK/Packages/com.ptc.vuforia.engine-11.2.4.tgz"
+      }
+    }
+  }
+}

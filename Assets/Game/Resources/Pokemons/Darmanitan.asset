@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93294854044d74429b2cceaadb744ebd, type: 3}
+  m_Name: Darmanitan
+  m_EditorClassIdentifier: 
+  pokemonNameInternal: Darmanitan
+  descriptionInternal: 
+  modelPrefabInternal: {fileID: 2374127228357829500, guid: 0e6bba28b22f244e68ff4797f115c580,
+    type: 3}
+  imageTargetTextureInternal: {fileID: 2800000, guid: 6cee73d09643c4a0caf12d506ad9df5e,
+    type: 3}
+  idleAnimationInternal: {fileID: -203655887218126122, guid: 59eba0cc5e0bb4a438b285e1f12c3e79,
+    type: 3}
+  attack1AnimationInternal: {fileID: -203655887218126122, guid: 5f071bf093bae4bd58342acddedc753c,
+    type: 3}
+  attack1NameInternal: Punch
+  type1Internal: 2
+  maxHpInternal: 0
+  attackInternal: 0
+  defenseInternal: 0
+  spAttackInternal: 0
+  spDefenseInternal: 0
+  speedInternal: 0
+  learnableMovesInternal: []
